@@ -4,7 +4,6 @@
  
  报告地址：
     https://coh5.cn/p/1ace6338.html
-
  使用方式：
     1.Unity引擎将zstring.cs文件放于plugins目录下即可使用（不在plugins目录，则IOS打包或IL2CPP打包等FULLAOT方式编译不过），或者直接把结构体定义放入zstring类中；其余C#程序将zstring.cs直接放入工程使用即可。 
 
